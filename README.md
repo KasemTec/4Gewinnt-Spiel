@@ -46,6 +46,7 @@ Ein Game Mode Auswählen:
 
 ### During Game 
 
+```sql
 Spieler_1 ist am Zug. Sein Zeichen ist X
 Geben die Spalte ein:  
 3
@@ -59,5 +60,5 @@ Geben die Spalte ein:
 |   |   |   | X |   |   |   |
 -----------------------------
 
-
+```
 
